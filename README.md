@@ -12,7 +12,7 @@ The following steps for the project:
 6. Data Exploration
 7. Sentiment Analysis
 
-![alt text](https://github.com/jess-data/Twitter-2020-Sentiment-Analysis/blob/master/Flowchart.png)
+![alt text](https://github.com/gitanalysis000/sentiment-analysis-twitter-using-nlp/blob/master/Flowchart.png)
 
 ## Tweets Processing Steps
 To reach the ultimate goal, there was a need to clean up the individual tweets. To make this easy, I created a function "preProcessTweets" in my Python program which I further applied to the "Tweets" to produce the desired results. This user-defined function was used to remove punctuations, links, emojis, and stop words from the tweets in a single run. Additionally, I used a concept known as "Tokenization" in NLP. It is a method of splitting a sentence into smaller units called "tokens" to remove unnecessary elements. Another technique worthy of mention is "Lemmatization". This is a process of returning words to their "base" form. A simple illustration is shown below.
