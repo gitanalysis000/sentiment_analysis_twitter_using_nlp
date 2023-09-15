@@ -43,12 +43,4 @@ Some of the insights I generated are stated below:
 * __Hour of the day with Least Tweets__: 9 AM (GMT) was the hour of the day with the least number of tweets. The reason is this is when most people start their day at work in countries like Nigeria and England while it is still bed-time in other countries like the US & Canada.
 * __Most Retweeted and Liked Tweet__: For the period of 12th to 25th December 2020, the tweet with the most retweets was about a Korean boy band: "BTS" and their songs with 10,873 RTs. The most liked tweet from a user who tweeted about how "2020 was a good year for his dog who did not have to be alone for a second". The tweet had 42,295 likes.
 
-## Relevant Links
-* [Tableau Dashboard](https://public.tableau.com/profile/jessica.uwoghiren#!/vizhome/TwitterUsers2020ReflectionsDashboard/FinalDashboard)
-* [Jupyter Notebook](https://nbviewer.jupyter.org/github/jess-data/Twitter-2020-Sentiment-Analysis/tree/master/Twitter%20Sentiment%20Analysis%20Project.ipynb0)
-* [Personal Website](https://jess-analytics.com/)
-* [Medium Article](https://jess-analytics.medium.com/)
-* [LinkedIn](https://www.linkedin.com/in/jessicauwoghiren/)
-* [Twitter](https://twitter.com/jessica_xls)
-* [DataTech Space Community](https://linktr.ee/DataTechSpace)
 
